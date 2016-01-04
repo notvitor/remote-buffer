@@ -2,5 +2,6 @@
 
 [![Build Status](https://travis-ci.org/notvitor/remote-buffer.svg)](https://travis-ci.org/notvitor/remote-buffer)
 
-Naive Observer Pattern implementation using Pull model
-Akka Remote - Queue, Producers, Consumers(not clustered)
+Naive Observer Pattern implementation using Pull model.
+
+Akka Remote - Queue, Producers, Consumers(1 hostname and port per JVMs, but not clustered)
